@@ -1,0 +1,16 @@
+/*styles for landing page of personal website*/
+
+.headshot {
+text-align: center;
+margin: 0 auto;
+padding-bottom: 20px;
+width: 100%;
+max-width: 500px;
+}
+
+.image-box{
+width: 100%;
+text-align: center;
+border-bottom: 1px solid black;
+
+}
